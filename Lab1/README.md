@@ -24,4 +24,4 @@
 mvn test
 ```
 
-Тести використовують JUnit 5 і розташовані в `src/test/java/ua/kpi/comsys/dop/`.
+Тести використовують JUnit 5 і розташовані в `src/test/java/ua/kpi/comsys/dop`.
